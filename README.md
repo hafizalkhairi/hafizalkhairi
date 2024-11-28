@@ -1,4 +1,4 @@
-# Hello, World! 🌍.  Welcome to my GitHub profile
+# 🌍 Hello, World!.  Welcome to my GitHub profile
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hafiz.alkhr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-hafiz-alkhairi-0b9397292) 
